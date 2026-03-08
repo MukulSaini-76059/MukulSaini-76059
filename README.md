@@ -34,6 +34,12 @@ If you like my projects and want to support my work:
 <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
 </a>
 
+<br><br>
+
+<a href="https://raw.githubusercontent.com/MukulSaini-76059/MukulSaini-76059/main/phonepe-qr.png.jpeg">
+<img src="https://img.shields.io/badge/Pay%20via-UPI%20%7C%20PhonePe-5f259f?style=for-the-badge&logo=phonepe&logoColor=white">
+</a>
+
 </p>
 
 ---
@@ -45,6 +51,8 @@ If you like my projects and want to support my work:
 </p>
 
 <p align="center"><b>UPI / PhonePe Supported</b></p>
+
+
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
