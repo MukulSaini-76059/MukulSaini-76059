@@ -28,8 +28,6 @@
 
 If you like my projects and want to support my work:
 
-<p align="center">
-
 <a href="https://buymeacoffee.com/mukulsaini">
 <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
 </a>
@@ -44,13 +42,6 @@ If you like my projects and want to support my work:
 
 ---
 
-### 📱 Or Scan UPI / PhonePe QR
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/MukulSaini-76059/MukulSaini-76059/main/phonepe-qr.png.jpeg" width="230">
-</p>
-
-<p align="center"><b>UPI / PhonePe Supported</b></p>
 
 
 
