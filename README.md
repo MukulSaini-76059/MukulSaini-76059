@@ -24,8 +24,27 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=MukulSaini-76059&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mukulsaini) 
+## 💰 Support My Work
+
+If you like my projects and want to support my work:
+
+<p align="center">
+
+<a href="https://buymeacoffee.com/mukulsaini">
+<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
+</a>
+
+</p>
+
+---
+
+### 📱 Or Scan UPI / PhonePe QR
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/MukulSaini-76059/REPOSITORY-NAME/main/phonepe-qr.png" width="230">
+</p>
+
+<p align="center"><b>UPI / PhonePe Supported</b></p>
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
