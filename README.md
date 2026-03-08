@@ -41,7 +41,7 @@ If you like my projects and want to support my work:
 ### 📱 Or Scan UPI / PhonePe QR
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/MukulSaini-76059/REPOSITORY-NAME/main/phonepe-qr.png" width="230">
+<img src="https://raw.githubusercontent.com/MukulSaini-76059/MukulSaini-76059/main/phonepe-qr.png.jpeg" width="230">
 </p>
 
 <p align="center"><b>UPI / PhonePe Supported</b></p>
